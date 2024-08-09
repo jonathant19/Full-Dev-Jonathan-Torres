@@ -1,3 +1,4 @@
+//Codigo con la logica para el inicio de sesion segun clave y usuario
 // Array de usuarios con sus respectivas claves
 const usuarios = [
     { id: 1, usuario: 'usuario1', clave: '1234' },
